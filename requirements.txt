@@ -1,0 +1,9 @@
+pypdf
+pinecone-client
+langchain-pinecone
+langchain-openai
+langchain
+openai
+PyPDF2
+PyMuPDF
+spire.pdf
